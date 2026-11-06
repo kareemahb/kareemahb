@@ -83,11 +83,11 @@ DocGap links recurring support tickets to the docs behind them, gives each doc a
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kareemahb&show_icons=true&hide_border=true&bg_color=F8F8FF&title_color=1B1B1B&text_color=1B1B1B&icon_color=C9A94A" alt="Mimi's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kareemahb&show_icons=true&hide_border=true&bg_color=F8F8FF&title_color=1B1B1B&text_color=1B1B1B&icon_color=C9A94A" alt="Kareemah's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemahb&layout=compact&hide_border=true&bg_color=F8F8FF&title_color=1B1B1B&text_color=1B1B1B" alt="Top languages" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareemahb&hide_border=true&background=F8F8FF&ring=1B1B1B&fire=C9A94A&currStreakLabel=1B1B1B&sideLabels=1B1B1B&currStreakNum=1B1B1B&sideNums=1B1B1B&dates=555B63" alt="GitHub streak" />
 </div>
----
+
  
 <div align="center">
 If your team values curiosity, collaboration, and purposeful engineering, let's connect and build something meaningful. ✨
