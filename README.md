@@ -1,14 +1,16 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=800&size=34&duration=3000&pause=900&color=1B1B1B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kareemah+%F0%9F%91%8B;Software+Engineer;I+filed+the+bug+reports.+Now+I+close+them." alt="Hi, I'm Kareemah Bahaadur. Software Engineer. I filed the bug reports. Now I close them." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Urbanist&weight=800&size=34&duration=3000&pause=900&color=F3E5AB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kareemah+%F0%9F%91%8B;Software+Engineer;I+filed+the+bug+reports.+Now+I+close+them." />
+  <img src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=800&size=34&duration=3000&pause=900&color=1B1B1B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mimi+%F0%9F%91%8B;Software+Engineer;I+filed+the+bug+reports.+Now+I+close+them." alt="Hi, I'm Kareemah. Software Engineer. I filed the bug reports. Now I close them." />
+</picture>
   
 Software Engineer · Former Systems Analyst & Technical Support · Philadelphia
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1B1B1B?style=for-the-badge&logo=linkedin&logoColor=F3E5AB)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1B1B1B?style=for-the-badge&logo=googlechrome&logoColor=F3E5AB)](https://YOUR-PORTFOLIO-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1B1B1B?style=for-the-badge&logo=linkedin&logoColor=F3E5AB)](https://www.linkedin.com/in/kareemahbahaadur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1B1B1B?style=for-the-badge&logo=googlechrome&logoColor=F3E5AB)](https://kareemah-bahaadur.vercel.app)
 [![Calendly](https://img.shields.io/badge/Calendly-Let's%20Chat-1B1B1B?style=for-the-badge&logo=calendly&logoColor=F3E5AB)](https://calendly.com/kareemahbahaadur)
  
 </div>
-
  
 ## 🧭 About Me
  
@@ -83,9 +85,7 @@ DocGap links recurring support tickets to the docs behind them, gives each doc a
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kareemahb&show_icons=true&hide_border=true&bg_color=F8F8FF&title_color=1B1B1B&text_color=1B1B1B&icon_color=C9A94A" alt="Kareemah's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemahb&layout=compact&hide_border=true&bg_color=F8F8FF&title_color=1B1B1B&text_color=1B1B1B" alt="Top languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kareemahb&hide_border=true&background=F8F8FF&ring=1B1B1B&fire=C9A94A&currStreakLabel=1B1B1B&sideLabels=1B1B1B&currStreakNum=1B1B1B&sideNums=1B1B1B&dates=555B63" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kareemahb&hide_border=true&background=F8F8FF&ring=1B1B1B&fire=C9A94A&currStreakLabel=1B1B1B&sideLabels=1B1B1B&currStreakNum=1B1B1B&sideNums=1B1B1B&dates=555B63" alt="Mimi's GitHub streak" />
 </div>
 
  
