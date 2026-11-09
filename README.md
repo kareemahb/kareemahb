@@ -20,7 +20,6 @@ After years of analyzing systems and reporting problems, I wanted to build the s
  
 - 🔭 Building **[DocGap](https://github.com/kareemahb/DocGap)**, my Demo Day project
 - 🤖 Learning to build **apps with Swift**
-- 🎓 Trained at **Nucamp** (Full Stack Web & Mobile)
 - 💬 Ask me about support workflows, documentation, and turning messy data into clear dashboards
 ---
  
